@@ -4,3 +4,20 @@ sun
 leo
 lacky123abc+grandma
 mom
+
+
+
+
+
+
+
+
+
+
+
+Person()
+{
+	Name:Alexander
+	Age:5yrs
+	Gender:male
+}
